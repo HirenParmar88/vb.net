@@ -1,0 +1,9 @@
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\bin\x64\Debug\employeeProject.exe.config
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\bin\x64\Debug\employee.accdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x64\Debug\employeeProject.Form1.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x64\Debug\employeeProject.Resources.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x64\Debug\employeeProject.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x64\Debug\employeeProject.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x64\Debug\employeeProject.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x64\Debug\employeeProject.pdb

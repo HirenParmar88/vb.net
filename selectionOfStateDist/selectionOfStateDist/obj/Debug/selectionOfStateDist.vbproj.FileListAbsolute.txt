@@ -1,0 +1,16 @@
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\bin\Debug\selectionOfStateDist.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\bin\Debug\selectionOfStateDist.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\bin\Debug\selectionOfStateDist.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\obj\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.Form1.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.Resources.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\bin\Debug\STUDENTS.mdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\selectionOfStateDist\selectionOfStateDist\bin\Debug\selectionOfStateDist.exe.config
+D:\bcaSem4\vb.net\selectionOfStateDist\selectionOfStateDist\bin\Debug\selectionOfStateDist.exe.config
+D:\bcaSem4\vb.net\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.exe
+D:\bcaSem4\vb.net\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.xml
+D:\bcaSem4\vb.net\selectionOfStateDist\selectionOfStateDist\obj\Debug\selectionOfStateDist.pdb

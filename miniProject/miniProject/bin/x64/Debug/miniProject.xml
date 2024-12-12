@@ -1,0 +1,127 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+miniProject
+</name>
+</assembly>
+<members>
+<member name="T:miniProject.univercityDataSet.CourseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.ExaminationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.ResultDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.Student_RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.CourseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.ExaminationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.ResultRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.Student_RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:miniProject.univercityDataSet.CourseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:miniProject.univercityDataSet.ExaminationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:miniProject.univercityDataSet.ResultRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:miniProject.univercityDataSet.Student_RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:miniProject.univercityDataSet.SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:miniProject.univercityDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.CourseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.ExaminationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.ResultTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.Student_RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:miniProject.univercityDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(miniProject.univercityDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:miniProject.univercityDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(miniProject.univercityDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:miniProject.univercityDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(miniProject.univercityDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:miniProject.univercityDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:miniProject.univercityDataSetTableAdapters.TableAdapterManager.UpdateAll(miniProject.univercityDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:miniProject.univercityDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

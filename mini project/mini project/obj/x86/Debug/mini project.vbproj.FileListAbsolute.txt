@@ -1,0 +1,42 @@
+D:\VB.Net\mini project\mini project\bin\x86\Debug\mini project.exe.config
+D:\VB.Net\mini project\mini project\bin\x86\Debug\mini project.exe
+D:\VB.Net\mini project\mini project\bin\x86\Debug\mini project.pdb
+D:\VB.Net\mini project\mini project\bin\x86\Debug\mini project.xml
+D:\VB.Net\mini project\mini project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Form1.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Form2.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Form3.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Form4.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Form5.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.MDIParent1.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Resources.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini project.vbproj.GenerateResource.Cache
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini project.exe
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini project.xml
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini project.pdb
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Reoprt1.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Report2.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Report3.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Report4.resources
+D:\VB.Net\mini project\mini project\obj\x86\Debug\mini_project.Report5.resources
+D:\bcaSem4\vb.net\mini project\mini project\bin\x86\Debug\mini project.exe.config
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini project.exe
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini project.xml
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini project.pdb
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Form1.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Form2.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Form3.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Form4.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Form5.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.MDIParent1.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Resources.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Reoprt1.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Report2.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Report3.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Report4.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini_project.Report5.resources
+D:\bcaSem4\vb.net\mini project\mini project\obj\x86\Debug\mini project.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\mini project\mini project\bin\x86\Debug\mini project.exe
+D:\bcaSem4\vb.net\mini project\mini project\bin\x86\Debug\mini project.pdb
+D:\bcaSem4\vb.net\mini project\mini project\bin\x86\Debug\mini project.xml

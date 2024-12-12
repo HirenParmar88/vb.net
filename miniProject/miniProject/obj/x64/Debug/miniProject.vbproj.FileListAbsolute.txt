@@ -1,0 +1,16 @@
+D:\bcaSem4\vb.net\miniProject\miniProject\bin\x64\Debug\miniProject.exe.config
+D:\bcaSem4\vb.net\miniProject\miniProject\bin\x64\Debug\univercity.mdb
+D:\bcaSem4\vb.net\miniProject\miniProject\bin\x64\Debug\miniProject.exe
+D:\bcaSem4\vb.net\miniProject\miniProject\bin\x64\Debug\miniProject.pdb
+D:\bcaSem4\vb.net\miniProject\miniProject\bin\x64\Debug\miniProject.xml
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.Form1.resources
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.Form2.resources
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.Form3.resources
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.Form4.resources
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.Form5.resources
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.Resources.resources
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.exe
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.xml
+D:\bcaSem4\vb.net\miniProject\miniProject\obj\x64\Debug\miniProject.pdb

@@ -1,0 +1,12 @@
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\bin\Debug\item_table1.mdb
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\bin\Debug\item_12_apr_2019.exe.config
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\bin\Debug\item_12_apr_2019.exe
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\bin\Debug\item_12_apr_2019.pdb
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\bin\Debug\item_12_apr_2019.xml
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\obj\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\obj\Debug\item_12_apr_2019.Form1.resources
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\obj\Debug\item_12_apr_2019.Resources.resources
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\obj\Debug\item_12_apr_2019.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\obj\Debug\item_12_apr_2019.exe
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\obj\Debug\item_12_apr_2019.xml
+D:\bcaSem4\vb.net\item_12_apr_2019\item_12_apr_2019\obj\Debug\item_12_apr_2019.pdb

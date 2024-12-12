@@ -1,0 +1,14 @@
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\bin\Debug\miniProject.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\bin\Debug\miniProject.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\bin\Debug\miniProject.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.Form1.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.Resources.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.Form2.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.Form3.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.Form4.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\miniProject\miniProject\obj\Debug\miniProject.Form5.resources

@@ -1,0 +1,10 @@
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\bin\x86\Debug\notepad.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\bin\x86\Debug\notepad.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\bin\x86\Debug\notepad.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\obj\x86\Debug\notepad.Form1.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\obj\x86\Debug\notepad.Resources.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\obj\x86\Debug\notepad.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\obj\x86\Debug\notepad.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\obj\x86\Debug\notepad.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\notepad\notepad\obj\x86\Debug\notepad.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "student12apr2019", "student12apr2019\student12apr2019.vbproj", "{5750A565-A187-4745-A730-89F60879322F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5750A565-A187-4745-A730-89F60879322F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5750A565-A187-4745-A730-89F60879322F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5750A565-A187-4745-A730-89F60879322F}.Debug|x86.ActiveCfg = Debug|x86
+		{5750A565-A187-4745-A730-89F60879322F}.Debug|x86.Build.0 = Debug|x86
+		{5750A565-A187-4745-A730-89F60879322F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5750A565-A187-4745-A730-89F60879322F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5750A565-A187-4745-A730-89F60879322F}.Release|x86.ActiveCfg = Release|x86
+		{5750A565-A187-4745-A730-89F60879322F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

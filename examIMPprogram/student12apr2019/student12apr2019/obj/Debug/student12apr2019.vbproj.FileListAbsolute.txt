@@ -1,0 +1,12 @@
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\bin\Debug\student.accdb
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\bin\Debug\student12apr2019.exe.config
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\bin\Debug\student12apr2019.exe
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\bin\Debug\student12apr2019.pdb
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\bin\Debug\student12apr2019.xml
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\obj\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\obj\Debug\student12apr2019.Form1.resources
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\obj\Debug\student12apr2019.Resources.resources
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\obj\Debug\student12apr2019.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\obj\Debug\student12apr2019.exe
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\obj\Debug\student12apr2019.xml
+D:\bcaSem4\vb.net\examIMPprogram\student12apr2019\student12apr2019\obj\Debug\student12apr2019.pdb

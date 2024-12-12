@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+customerTable
+</name>
+</assembly>
+<members>
+<member name="T:customerTable.DatabaseCustomerDataSet.customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:customerTable.DatabaseCustomerDataSet.customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:customerTable.DatabaseCustomerDataSet.customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:customerTable.DatabaseCustomerDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:customerTable.DatabaseCustomerDataSetTableAdapters.customerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(customerTable.DatabaseCustomerDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(customerTable.DatabaseCustomerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(customerTable.DatabaseCustomerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager.UpdateAll(customerTable.DatabaseCustomerDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:customerTable.DatabaseCustomerDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

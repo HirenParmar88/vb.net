@@ -1,0 +1,13 @@
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\bin\Debug\calculator.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\bin\Debug\calculator.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\bin\Debug\calculator.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\obj\Debug\calculator.Resources.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\obj\Debug\calculator.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\obj\Debug\calculator.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\calculator\calculator\obj\Debug\calculator.pdb
+D:\bcaSem4\vb.net\calculator\calculator\obj\Debug\calculator.exe
+D:\bcaSem4\vb.net\calculator\calculator\obj\Debug\calculator.xml
+D:\bcaSem4\vb.net\calculator\calculator\obj\Debug\calculator.pdb

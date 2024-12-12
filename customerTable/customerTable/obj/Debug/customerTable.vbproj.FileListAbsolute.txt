@@ -1,0 +1,12 @@
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\bin\Debug\DatabaseCustomer.accdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\bin\Debug\customerTable.exe.config
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\bin\Debug\customerTable.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\bin\Debug\customerTable.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\bin\Debug\customerTable.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\obj\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\obj\Debug\customerTable.Customer.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\obj\Debug\customerTable.Resources.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\obj\Debug\customerTable.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\obj\Debug\customerTable.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\obj\Debug\customerTable.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\customerTable\customerTable\obj\Debug\customerTable.pdb

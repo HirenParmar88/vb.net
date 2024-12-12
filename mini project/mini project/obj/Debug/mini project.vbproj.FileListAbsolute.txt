@@ -1,0 +1,27 @@
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\bin\Debug\mini project.exe
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\bin\Debug\mini project.pdb
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\bin\Debug\mini project.xml
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\mini_project.MDIParent1.resources
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\mini_project.Resources.resources
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\mini project.vbproj.GenerateResource.Cache
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\mini project.exe
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\mini project.xml
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\mini project.pdb
+C:\Users\hvsta\AppData\Local\Temporary Projects\mini project\obj\Debug\mini_project.Form1.resources
+D:\VB.Net\mini project\mini project\obj\Debug\mini project.exe
+D:\VB.Net\mini project\mini project\obj\Debug\mini project.xml
+D:\VB.Net\mini project\mini project\obj\Debug\mini project.pdb
+D:\VB.Net\mini project\mini project\bin\Debug\mini project.exe
+D:\VB.Net\mini project\mini project\bin\Debug\mini project.pdb
+D:\VB.Net\mini project\mini project\bin\Debug\mini project.xml
+D:\VB.Net\mini project\mini project\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.Net\mini project\mini project\obj\Debug\mini_project.Form1.resources
+D:\VB.Net\mini project\mini project\obj\Debug\mini_project.Form2.resources
+D:\VB.Net\mini project\mini project\obj\Debug\mini_project.Form3.resources
+D:\VB.Net\mini project\mini project\obj\Debug\mini_project.MDIParent1.resources
+D:\VB.Net\mini project\mini project\obj\Debug\mini_project.Resources.resources
+D:\VB.Net\mini project\mini project\obj\Debug\mini project.vbproj.GenerateResource.Cache
+D:\VB.Net\mini project\mini project\obj\Debug\mini_project.Form4.resources
+D:\VB.Net\mini project\mini project\obj\Debug\mini_project.Form5.resources
+D:\VB.Net\mini project\mini project\bin\Debug\mini project.exe.config

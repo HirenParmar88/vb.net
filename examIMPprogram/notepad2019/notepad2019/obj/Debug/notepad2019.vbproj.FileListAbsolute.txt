@@ -1,0 +1,10 @@
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\bin\Debug\notepad2019.exe
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\bin\Debug\notepad2019.pdb
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\bin\Debug\notepad2019.xml
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\obj\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\obj\Debug\notepad2019.Form1.resources
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\obj\Debug\notepad2019.Resources.resources
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\obj\Debug\notepad2019.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\obj\Debug\notepad2019.exe
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\obj\Debug\notepad2019.xml
+D:\bcaSem4\vb.net\examIMPprogram\notepad2019\notepad2019\obj\Debug\notepad2019.pdb

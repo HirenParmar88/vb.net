@@ -1,0 +1,16 @@
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x86\Debug\employeeProject.Form1.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x86\Debug\employeeProject.Resources.resources
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x86\Debug\employeeProject.vbproj.GenerateResource.Cache
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\bin\x86\Debug\employeeProject.exe.config
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\bin\x86\Debug\employee.accdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\bin\x86\Debug\employeeProject.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\bin\x86\Debug\employeeProject.pdb
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\bin\x86\Debug\employeeProject.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x86\Debug\employeeProject.exe
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x86\Debug\employeeProject.xml
+D:\bcaSem4\vb.net\visual_Studio_2008_In_Program\employeeProject\employeeProject\obj\x86\Debug\employeeProject.pdb
+D:\bcaSem4\vb.net\employeeProject\employeeProject\bin\x86\Debug\employeeProject.exe.config
+D:\bcaSem4\vb.net\employeeProject\employeeProject\obj\x86\Debug\employeeProject.exe
+D:\bcaSem4\vb.net\employeeProject\employeeProject\obj\x86\Debug\employeeProject.xml
+D:\bcaSem4\vb.net\employeeProject\employeeProject\obj\x86\Debug\employeeProject.pdb
